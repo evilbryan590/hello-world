@@ -1,5 +1,5 @@
 # hello-world
-Don't mind me, just learning how to Github.
+Don't mind me, just learning how to Guthib.
 
 VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM
 VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM VIM
